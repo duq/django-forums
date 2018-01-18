@@ -1,2 +1,4 @@
 # django-forums
-Boards project based on Django and Bootstrap
+Django project based on Django framework and Bootstrap
+
+Live demo available at https://www.duda.tech/
